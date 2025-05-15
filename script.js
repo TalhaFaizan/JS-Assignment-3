@@ -1,4 +1,4 @@
-Single Spaces
+//Single Spaces
 
 let paragraph = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
   let count = 0;
